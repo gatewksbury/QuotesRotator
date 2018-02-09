@@ -1,3 +1,3 @@
-# QuotesRotator
+Created by Codrops
 
-A simple automatic quotes rotator with progress bar and example media query.
+Please read more about our license here: http://tympanus.net/codrops/licensing/ 
